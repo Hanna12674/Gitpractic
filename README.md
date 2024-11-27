@@ -14,3 +14,16 @@ Technologies Used:
 
 Frontend: HTML, CSS, JavaScript
 Backend: [JavaScript]
+Features and Requirements Addressed
+Requirement	Implementation
+3 Pages	Linked to other pages in the navbar.
+Grid System	Used Bootstrap’s grid system for product cards.
+10 HTML Tags	<header>, <main>, <section>, <video>, <form>, etc.
+HTML Table	Added a table for popular products.
+Forms	Included a newsletter subscription form and Contact us form.
+Dropdown Menu	Added a dropdown menu in the navbar.
+Web Fonts	Used Google Fonts (Roboto).
+Content Variety	Includes text, images, video, and a table.
+Regex Validation	Newsletter form uses type="email" for validation.
+
+Github link: https://github.com/Hanna12674/first-repository.git
